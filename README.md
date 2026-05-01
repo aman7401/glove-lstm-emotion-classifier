@@ -4,8 +4,7 @@ TCS Remote Internship (Emotion Detection From Text or Paragraph)
 Automate detection of different emotions from textual comments and feedback
 
 Collaborators
-Name	        Email-id 
-Aman Rai      amanrai7401@gmail.com
+Name	        Email-id
 
 Name of the Company 	         TCS iON
 Name of the Industry Mentor 	 Mr. Debashis Roy
